@@ -4,7 +4,7 @@
 
 This application implement the Feature based image morphing tool which apply [Beier–Neely morphing algorithm](https://en.wikipedia.org/wiki/Beier%E2%80%93Neely_morphing_algorithm).
 
-![Core formula](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/core_formula.jpg)
+![Core formula](demo_images/core_formula.jpg)
 
 User may interactively place feature lines on source and destination images, deform input image based on feature lines to repaint the destination image.
 
