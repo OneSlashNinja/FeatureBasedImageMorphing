@@ -8,13 +8,13 @@ This application implement the Feature based image morphing tool which apply [Be
 
 User may interactively place feature lines on source and destination images, deform input image based on feature lines to repaint the destination image.
 
-![Morphing Example 1](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/demo.png)
+![Morphing Example 1](demo_images/demo.png)
 
-![Terminator Morphing](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/TerminatorMorphing.gif)
+![Terminator Morphing](demo_images/TerminatorMorphing.gif)
 
-![Hulk Morphing](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/Hulk_morphing.gif)
+![Hulk Morphing](demo_images/Hulk_morphing.gif)
 
-![Beckham Leonardo Morphing](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/Beckham_Leonardo_Morphing.gif)
+![Beckham Leonardo Morphing](demo_images/Beckham_Leonardo_Morphing.gif)
 
 ## Environments and language requirements
 
@@ -37,17 +37,17 @@ User may interactively place feature lines on source and destination images, def
 
   Now, you may interactively place feature lines on the source image.
 
-  ![Phase 0](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/images/phase0.png)
+  ![Phase 0](demo_images/images/phase0.png)
 
 3. After placing all the feature lines, click **middle button of your mouse** on the **source image**, 
   then click the **destination image** by **left button of your mouse**. 
   Then all the corresponding feature lines would show up in the destination image.
 
-  ![Phase 1](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/images/phase1.png)
+  ![Phase 1](demo_images/images/phase1.png)
 
 4. Then you may adjust the feature lines in both the source image and destination image to map to the corresponding positions.
 
-  ![Phase 2](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/images/phase2.png)
+  ![Phase 2](demo_images/images/phase2.png)
 
 5. When you have done adjusting the feature lines, you may click **middle button** of your mouse on the **destination image**. 
 
@@ -58,7 +58,7 @@ User may interactively place feature lines on source and destination images, def
   When the morph is done, the command line will require you to input the output file name of the morphed image. 
   After that, you may see the morphed image in the local folder.
 
-  ![Phase 3](https://github.com/OneSlashNinja/FeatureBasedImageMorphing/tree/master/demo_images/images/phase3.png)
+  ![Phase 3](demo_images/images/phase3.png)
 
 7. if you still want to get morphed result images with the same feature lines but different time 't', 
   you can click **middle button** of your mouse on the **destination image** to repeat the process.
